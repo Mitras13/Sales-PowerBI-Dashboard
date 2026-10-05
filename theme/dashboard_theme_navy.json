@@ -1,0 +1,58 @@
+{
+  "name": "Mitra Sarkhosh - Navy Executive",
+  "dataColors": [
+    "#2F6FED", "#5C93F5", "#8AB4F8", "#0B2545", "#8A94A6",
+    "#1E8E5A", "#E5484D", "#B7C3D6"
+  ],
+  "background": "#F7F9FC",
+  "foreground": "#1B2430",
+  "tableAccent": "#2F6FED",
+  "good": "#1E8E5A",
+  "neutral": "#8A94A6",
+  "bad": "#E5484D",
+  "maximum": "#1E8E5A",
+  "center": "#8A94A6",
+  "minimum": "#E5484D",
+  "textClasses": {
+    "callout": { "fontSize": 28, "color": "#0B2545" },
+    "title": { "fontSize": 14, "color": "#1B2430" },
+    "header": { "fontSize": 12, "color": "#667085" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "show": true, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E3E8EF" } }, "radius": 12 }],
+        "dropShadow": [{ "show": false }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F7F9FC" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#F7F9FC" } } }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#0B2545" } }, "fontSize": 26, "bold": true }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#667085" } }, "fontSize": 12 }]
+      }
+    },
+    "multiRowCard": {
+      "*": {
+        "dataLabels": [{ "color": { "solid": { "color": "#1B2430" } }, "fontSize": 14 }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#667085" } }, "fontSize": 11 }]
+      }
+    },
+    "pivotTable": {
+      "*": {
+        "columnHeaders": [{ "backColor": { "solid": { "color": "#0B2545" } }, "fontColor": { "solid": { "color": "#FFFFFF" } }, "bold": true }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [{ "fontColor": { "solid": { "color": "#0B2545" } }, "show": true }]
+      }
+    }
+  }
+}

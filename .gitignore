@@ -1,0 +1,20 @@
+# داده و گزارش‌های خصوصی (هرگز commit نشوند)
+*.pbix
+*.pbit
+*.xlsx
+*.xls
+*.csv
+*.parquet
+*.lock
+
+# اطلاعات دسترسی و تنظیمات محلی
+server.txt
+*.env
+*secret*
+*password*
+
+# فایل‌های موقت و خروجی‌های ساخته‌شده
+_retired_raw/
+raw_data/
+logs/
+__pycache__/
