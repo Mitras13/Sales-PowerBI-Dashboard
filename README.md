@@ -1,6 +1,11 @@
 # داشبورد فروش و وصول ۵۰۴۰ (Power BI)
 
-داشبورد مدیریتی فارسی (RTL) برای پایش **فروش، وصول، تارگت، و عملکرد تیم فروش**. این ریپو شامل کد Power Query، مژرهای DAX، تم گزارش و مستندات است. **داده‌های واقعی و فایل `.pbix` عمداً در این ریپو نیستند** (شامل اطلاعات مشتریان و مبالغ واقعی شرکت است).
+![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-M-blue)
+![DAX](https://img.shields.io/badge/DAX-measures-orange)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-data%20source-CC2927)
+
+داشبورد مدیریتی فارسی (RTL) برای پایش **فروش، وصول، تارگت، و عملکرد تیم فروش**. ساخته‌شده با **Power BI Desktop**، داده از **SQL Server** و فایل‌های Excel، با کوئری‌های **Power Query (M)** و مژرهای **DAX**. این ریپو شامل کد Power Query، مژرهای DAX، تم گزارش و مستندات است. **داده‌های واقعی و فایل `.pbix` عمداً در این ریپو نیستند** (شامل اطلاعات مشتریان و مبالغ واقعی شرکت است).
 
 ## صفحات گزارش
 | صفحه | هدف |
