@@ -1,0 +1,2 @@
+*.m linguist-detectable=false
+*.m linguist-documentation=true
